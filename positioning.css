@@ -1,0 +1,36 @@
+div{
+    border:2px solid brown;
+    position: absolute;
+}
+
+.Navigation{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+
+}
+
+.leftpanel{
+    top: 116px;
+    left: 5px;
+    bottom: 62px;
+    width: 180px;
+
+}
+
+.rightpanel{
+    top: 116px;
+    right: 5px;
+    bottom: 62px;
+    width: 154px;
+
+}
+
+.mainpanel{
+    top: 116px;
+    bottom: 62px;
+    left: 190px;
+    right: 5px;
+
+}
